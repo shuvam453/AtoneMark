@@ -1,0 +1,277 @@
+@media only screen and (min-device-width : 992px) and (max-device-width : 1199px) {
+	.class_nav {
+     transform: translate(0, 0); 
+	}
+	.nav__icons_social {
+		margin-left: 0;
+	}
+	.overlay_text h1 {
+		font-size: 58px;
+	}
+	.services {
+    padding-top: 80px;
+	}
+	.card_logo img {
+    width: 30%;
+	}
+	.card__logo_size img {
+		width: 28%;
+	}
+	.service_title {
+    	font-size: 16px;
+	}
+	.service_text {
+    	font-size: 12px;
+	}
+	.extra_mar {
+    	margin-bottom: 41px;
+	}
+	.extra_mar1 {
+	    margin-bottom: 38px;
+	}
+	.extra {
+	    margin-bottom: 18px;
+	}
+	.contact_form_btn {
+		padding: 10px 80px;
+	}
+	.testimonial_quotes {
+	    margin-top: 50px;
+	}
+	.ui_heading p {
+	    font-size: 17px;
+	}
+	.ui_heading h3 {
+	    font-size: 18px;
+	    margin-top: 7px;
+	}
+}
+@media only screen and (max-device-width : 991px) {
+/*	.overlay_text {
+	    top: 125%;
+	}*/
+	.overlay_text h1 {
+	    font-size: 55px;
+	}
+	.overlay_text p {
+		font-size: 20px;
+	}
+	.class_nav {
+	    transform: translate(0%, 0); 
+	}
+	.nav__icons_social {
+	    margin-left: -3%;
+	    margin-top: 15px;
+    	margin-bottom: 15px;
+	}
+	.services {
+	    padding-top: 80px;
+	}
+	.extra {
+	    margin-bottom: 55px;
+	}
+	.testimonial_sub {
+		font-size: 18px;
+	}
+	.about_mar {
+		margin-bottom: 25px;
+	}
+	.about_img {
+	    width: 100%;
+	}
+	.testimonial_quotes {
+		display: none;
+	}
+}
+@media only screen and (max-device-width : 767px) {
+	#navbar a {
+		padding: 0;
+		font-size: 13px;
+	}
+	.top_nav {
+		font-size: 11px;
+	}
+	#navbar {
+		top: -125px;
+	}
+	.class_nav {
+	    transform: translate(0%, 0); 
+	}
+	.nav__icons_social {
+	    margin-left: -4%;
+	    margin-bottom: 20px;
+	    margin-top: 20px;
+	}
+	.testimonial_quotes img {
+		width: 100%;
+	}
+	.overlay_text h1 {
+    	font-size: 28px;
+    }
+    .overlay_text p {
+	    font-size: 12px;
+	}
+	.banner_link {
+	    font-size: 12px;
+	}
+	.services {
+	    padding-top: 50px;
+	}
+	.services p {
+	    font-size: 22px;
+	}
+	.services h1 {
+		font-size: 35px;
+	}
+	.card_logo img {
+	    width: 18%;
+	}
+	.service_title {
+		font-size: 28px;
+	}
+	.extra_mar, .extra_mar1 {
+	    margin-bottom: 20px; 
+	}
+	.mt {
+	    margin: 60px 0 45px 0;
+	}
+	.ser_subtitle {
+		font-size: 22px;
+	}
+	.ser_title {
+	    font-size: 35px;
+	}
+	.testimonial_quotes {
+		display: none;
+	}
+	.about_mar {
+		margin-bottom: 20px;
+	}
+	.about_img {
+	    width: 100%;
+	}
+	.partners h1 {
+    	font-size: 40px;
+    	margin-bottom: 50px;
+    }
+    .owl-carousel .owl-item img {
+	    width: 85%;
+	}
+	.contact_caption {
+		font-size: 35px;
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.contact_form_btn {
+		padding: 10px 60px;
+		width: 100%;
+	}
+	.contact_title_text p {
+	    font-size: 18px;
+	}
+	.ui_heading h3 {
+	    font-size: 18px;
+	    font-weight: 600;
+	}
+	.ui_heading p {
+	    font-size: 16px;
+	}
+	.style_copyright p {
+	    font-size: 15px;
+	}
+	.extra_img {
+		margin-top: 45px;
+	}
+
+}
+@media only screen and (max-device-width : 477px) {
+	#navbar a {
+	    margin: 9px;
+	    font-size: 9px;
+	}
+	.top_nav .top_txt, .top_link {
+		    padding: 10px 3px !important;
+		    font-size: 10px;
+	}
+	.navbar-brand img {
+		width: 55% !important;
+	} 
+	.callback {
+    	padding: 18px;
+	}
+	.modal-content {
+	    width: 100% !important;
+	    height: 420px;
+	}
+	.modal-body {
+	    border: none;
+	    text-align: center;
+	}
+	.moodal_user_details {
+		padding-top: 15px;
+	} 
+	.overlay_text h1 {
+	    font-size: 14px;
+	}
+	.banner_link {
+	    font-size: 10px;
+	    padding: 6px 25px;
+	}
+	.overlay_text p {
+	    font-size: 10px;
+	    margin-bottom: 20px;
+	    line-height: 1.3;
+	}
+	.service_title {
+	    font-size: 25px;
+	}
+	.testimonial_text {
+		font-size: 14px;
+	}
+	.testimonial_sub {
+		font-size: 14px;
+	}
+	.padd {
+	    padding: 30px;
+	}
+	.contact_form_btn {
+	    padding: 10px 50px;
+	    font-size: 16px;
+	}
+	.contact_title_text p {
+	    font-size: 14px;
+	}
+	.ui_heading p {
+	    font-size: 15px;
+	}
+	.ui_heading a {
+	    font-size: 16px;
+	}
+	.footer_manu a {
+	    font-size: 18px;
+	}
+	.footer_about p {
+	    font-size: 14px;
+	}
+	.footer_socialmedia a {
+	    font-size: 20px;
+	}
+	.style_copyright p {
+	    font-size: 9px;
+	}
+	.copyright {
+		font-size: 12px;
+	}
+	.about_content h1 {
+	    font-size: 42px;
+	}
+	.about_content .about_subtitle {
+	    font-size: 22px;
+	}
+	.card_logo img {
+	    width: 28%;
+	}
+	.extra_img {
+		margin-top: 45px;
+	}
+}
